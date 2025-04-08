@@ -7,12 +7,9 @@
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Features](#features)
-- [Lighthouse Report](#Lighthouse-Report)
 - [Project Structure](#project-structure)
 - [API Integration](#api-integration)
-- [Installation](#installation)
-- [License](#license)
-- [Author](#author)
+
 
 ### Overview
 
@@ -34,7 +31,7 @@ This is a Weather Dashboard application designed to provide users with up-to-dat
 
 ### Links
 
-- Live Site URL : [Weather_X Application](#)
+- Live Site URL : [[Weather_X Application](https://weather-app-alpha-eight-55.vercel.app/)](#)
 
 ### Features
 
